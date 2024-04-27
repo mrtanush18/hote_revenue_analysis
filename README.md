@@ -1,1 +1,1 @@
-# hote_revenue_analysis
+# hotel_revenue_analysis
